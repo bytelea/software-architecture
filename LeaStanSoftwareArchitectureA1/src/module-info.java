@@ -1,0 +1,8 @@
+/**
+ * 
+ */
+/**
+ * 
+ */
+module LeaStanSoftwareArchitectureA1 {
+}
